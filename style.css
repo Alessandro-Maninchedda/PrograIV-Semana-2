@@ -1,0 +1,58 @@
+body{
+   overflow-x: hidden;
+}
+
+.bg-light{
+   background-color: #00203FFF !important;
+}
+
+.navbar-light .navbar-brand, .navbar-light .navbar-nav .nav-link {
+   color: #ADEFD1FF !important;
+}
+
+.main, .container-2{
+   margin: 0 auto;
+   width: 100%;
+   text-align: center;
+   font-style: italic;
+   color: #00203FFF;
+}
+
+.main{
+   padding-top: 3%;
+   padding-bottom: 3%;
+}
+
+.b2{
+   background-color: darkgrey;
+}
+
+.container-2{
+   padding: none !important;
+}
+
+.carousel-item>img {
+   max-height: 25rem;
+}
+
+.carousel-item h2{
+   font-size: 7rem;
+}
+
+.carousel-caption{
+   color: #00203FFF;
+}
+
+.container-3{
+   display: inline;
+   flex-direction: row;
+}
+
+.py-5{
+   background-color: darkgray !important;
+}
+
+.page-footer{
+   background-color: #00203FFF;
+   color: white;
+}
